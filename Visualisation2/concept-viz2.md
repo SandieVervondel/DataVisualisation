@@ -15,5 +15,4 @@ Attributes:
   - Explanatory
   - Auditive
   - Node-based
-  (- Interactive)
   
