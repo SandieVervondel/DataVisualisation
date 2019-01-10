@@ -3,8 +3,7 @@
 Work process:
   - Retrieve data in Processing from API (https://1forge.com/forex-data-api)
   - Send the current exchange rate to Pure Data using Open Sound Control
-  - Control sound using Pure Data
-  (- Make an interface in Processing to change the currency pairs (for example: EURUSD))
+  - Control sound using Pure Data. For this I used the Pure Data library Automatonism. All the audio creation is in the patch main.pd, the actual receiving of the data and adapting of the audio is done in the patch sonification.pd
   
   
 Goal:
