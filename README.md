@@ -12,7 +12,7 @@ A data sonification using the real-time currency exchange rates
 Visualisation 3 - Monster mash  
 A physical 'bar' chart showing the top 20 most represented Doctor Who villains in the first 50 years (1963-2013) of the show. The bars of the chart are 3D-printed models of the villains.
 
-Visualisation 4 - DNA  
+Visualisation 4 - Born This Way  
 What do we know about this random stranger based on his DNA? This visualisation shows exactly that! Made using D3, you can find out which things (like eye colour, lactose intolerancy, ...) I was able to discover about Manu Sporny based purely on his DNA.
 
 Visualisation 5 - Movies  
