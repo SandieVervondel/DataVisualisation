@@ -17,3 +17,5 @@ Goal:
 Attributes:
   - Explanatory
   - Linear
+
+Data from: https://data.world/kgarrett/disney-character-success-00-16
