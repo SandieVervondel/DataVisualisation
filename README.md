@@ -2,14 +2,14 @@
 # 2018-2019
 
 
-Visualisation 1 - Around the world  
+Visualisation 1 - Around the World  
 A map of the world where each country is made up of the most used words in the top 25 songs 
 Data collected during the period of November 4th 2018 to December 7th 2018 on various music charting websites (iTunes, spotify, ...)
 
-Visualisation 2 - Money money money  
+Visualisation 2 - Money! Money! Money!  
 A data sonification using the real-time currency exchange rates
 
-Visualisation 3 - Monster mash  
+Visualisation 3 - The Monster Mash  
 A physical 'bar' chart showing the top 20 most represented Doctor Who villains in the first 50 years (1963-2013) of the show. The bars of the chart are 3D-printed models of the villains.
 
 Visualisation 4 - Born This Way  
