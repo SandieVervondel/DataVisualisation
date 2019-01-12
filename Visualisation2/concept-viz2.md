@@ -1,4 +1,4 @@
-# Concept visualisation 2
+# Concept visualisation 2 - Money! Money! Money!
 
 Work process:
   - Retrieve data in Processing from API (https://1forge.com/forex-data-api). In case there are problems with the internet or the api, I made a backup version with offline data
