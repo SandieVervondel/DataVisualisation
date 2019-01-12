@@ -15,6 +15,6 @@ A physical 'bar' chart showing the top 20 most represented Doctor Who villains i
 Visualisation 4 - Born This Way  
 What do we know about this random stranger based on his DNA? This visualisation shows exactly that! Made using D3, you can find out which things (like eye colour, lactose intolerancy, ...) I was able to discover about Manu Sporny based purely on his DNA.
 
-Visualisation 5 - Movies  
+Visualisation 5 - The Circle of Life  
 A visualisation representing how much money Disney earned at the box office (in the country where the movie was made) when you take the inflation into account. 
 
