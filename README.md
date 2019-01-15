@@ -18,3 +18,6 @@ What do we know about this random stranger based on his DNA? This visualisation 
 Visualisation 5 - The Circle of Life  
 A visualisation representing how much money Disney earned at the box office (in the country where the movie was made) when you take the inflation into account. 
 
+Portfolio  
+Made to resemble a lyric booklet of an album
+
