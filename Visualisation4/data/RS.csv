@@ -1,0 +1,37 @@
+﻿RS_id,Pos_Gen,Meaning_Pos,Middle_Gen,Meaning_Middle,Neg_Gen,Meaning_Neg,General_Meaning
+rs10994336,CC,Normal odds,CT,1.45x increased odds,TT,2.9x increased odds,Bipolar disorder
+rs10050860,TT,Half the risk,CT,0.71x lower risk,CC,Normal risk,Ankylosing Spondylitis
+rs10033464,GG,0.92x decreased risk,GT,1.28x increased,TT,1.4x increased risk,Atrial Fibrillation and cardioembolic stroke
+rs10248420,GG,More likely to remit,AG,Normal rate of remission,AA,Less likely to remit,Remission on antidepressants
+rs1045642,CC,Increased risk of dependence. Lower cancer risk,CT,Slower metaboliser for some drugs,TT,Altered drug metabolism and bioavailibility. Increased risk for certain cancers,Drug dependence. cancer risk
+rs2235015,TT,Better response,GT,Better response,GG,Worse response,Response to certain antidepressants for inpatients
+rs53576,GG,Optimistic and empathetic. Handles stress well,AG,Lack of empathy,AA,Lack of empathy,Empathy
+rs1815739,CC,Better performing muscles. Likely sprinter,CT,Mix of muscle types. Likely sprinter,TT,Impaired muscle performance. Likely endurance athlete,Muscle performance
+rs6152,AA,Won't go bald,AG,Increased risk,GG,Able to go bald,Baldness
+rs1799971,AA,Normal,AG,Stronger craving for alcohol. If alcoholic naltrexone treatment 2x more succesful,GG,More pain,Alcohol cravings
+rs1805007,CC,Normal risk,CT,Carrier of red hair associated variant. Higher risk melanoma,TT,13-20x higher likelihood of red hair. Increased risk of melanoma,Red hair and melanoma
+rs9939609,TT,Lower risk,AT,1.3x increased risk,AA,1.6x increased risk,Obesity and Type-2 diabetis
+rs17822931,TT,Dry earwax. No body odour. Likely Asian ancestry,CT,Wet earwax. Slightly better body odour,CC,Wet earwax. Normal body odour,Earwax and body odour
+rs4680,GG,Warrior: higher pain threshold and better stress resiliency,AG,Intermediate dopamine levels,AA,Worrier: advantage in memory and attention tasks,Warrior vs worrier
+rs1333049,GG,Normal risk,CG,1.5x increased risk,CC,1.9x increased risk,Coronary artery disease
+rs4988235,TT,Can digest milk,CT,Likely to be able to digest milk as an adult ,CC,Likely to be lactose intolerant as an adult,Lactose intolerance
+rs1000113,CC,Normal risk,CT,1.5x risk,TT,1.9x risk,Crohn's disease
+rs2231137,AA,Slightly lower risk,AG,Slightly lower risk,GG,Slightly higher risk. Most common genotype,Stroke risk
+rs11887534,GG,Normal risk,CG,2x increased risk,CC,7x increased risk,Gallstones
+rs8176719,--,Likely type O,G-,Most likely type A or B,GG,Most likely type A B or AB,Blood type
+rs1229984,AA,0.56x decreased risk,AG,0.56x decreased risk,GG,Normal risk. More frequent alcohol consumption,Oral/throat cancer risk
+rs5751876,CC,Normal,CT,Normal,TT,Significantly higher anxiety levels after moderate consumption,Response to caffeine
+rs671,GG,Alcohol Flush normal. Normal hangovers,AG,Asian Flush. wWorse hangovers,AA,Asian Flusher. Worse hangovers,Response to alcohol
+rs2494732,TT,Lower odds of psychosis,CT,Slightly greater risk of temporary paranoia,CC,Greater odds of cannabis-associated psychosis,Response to cannabis
+rs5186,AA,Normal risk,AC,1.4x increased risk,CC,7.3x increased risk,Hypertension
+rs10516487,CC,Normal,CT,Slightly higher risk,TT,Slightly higher risk,Lupus
+rs2156921,AA,Normal risk,AG,1.29x increased risk,GG,1.29x increased risk,Depression
+rs3923809,GG,Normal risk,AG,Slightly increased risk,AA,1.9x increased risk,Restless legs syndrome
+s12913832,AA,Brown eyes (80% of the time),AG,Brown eyes,GG,Blue eyes (99% of the time),Eye color
+rs1052133,CC,Normal risk,CG,Normal risk for bladder cancer. 1.9x increased risk for gallbladder cancer,GG,2x increased risk for bladder cancer. 4.5x increased risk for gallbladder cancer,(Gall)bladder cancer
+rs4950928,GG,Half the risk,CG,Half the risk,CC,Normal (higher) risk,Asthma
+rs1051730,CC,Smokes normal (lower) number of cigarettes if a smoker,CT,1.3x increased risk,TT,1.8x increased risk,Lung cancer and smoking
+rs16969968,GG,Normal,AG,Slightly higher risk for nicotine dependence. Lower risk for cocaine dependence,AA,Higer risk for nicotine dependence. Lower risk for cocaine dependence,Nicotine and cocaine dependence
+rs793862,GG,Normal,AG,Increased risk,AA,3-5x risk,Dyslexia
+rs10260404,TT,Normal risk,CT,1.20x risk ,CC,1.60x risk,ALS
+rs4792311,GG,Normal risk,AG,Increased risk,AA,Increased risk,Prostate cancer
