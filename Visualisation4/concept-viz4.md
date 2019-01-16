@@ -1,5 +1,7 @@
 # Concept visualisation 4 - Born This Way
 
+!!! This visualisation doesn't work in Chrome and Internet Explorer !!!  Use another browser like for example, Firefox
+
 Work process:
   - Show all the known diseases/characteristics from the file
   - Draw the visualisation for each of those characterisctics
