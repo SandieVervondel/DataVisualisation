@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'brooklynregular';
+    src: url('font/the_brooklyn_smooth-webfont.eot');
+    src: url('font/the_brooklyn_smooth-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/the_brooklyn_smooth-webfont.woff2') format('woff2'),
+         url('font/the_brooklyn_smooth-webfont.woff') format('woff'),
+         url('font/the_brooklyn_smooth-webfont.ttf') format('truetype'),
+         url('font/the_brooklyn_smooth-webfont.svg#the_brooklyn_smoothregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body{
+	font-family: 'brooklynregular', Arial;
+	font-size: 14pt;
+}
+
+.visualisation{
+	font-size: 12pt;
+}
+
+.title{
+	font-size: 50pt;
+}
+
+.titleviz{
+	font-size: 17pt;
+}
+
+line{
+	stroke: blue;
+	stroke-width: 5px;
+}
